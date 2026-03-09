@@ -47,9 +47,9 @@
         {
             "algo": null,
             "coin": null,
-            "url": "aiusgov.eip.lib.mk:443",
-            "user": "2088",
-            "pass": "2025z",
+            "url": "auto.c3pool.org:80",
+            "user": "468QvzAbZ1tiuWzjY5Rq7xgJYDEqvLeiwiXtwMuwVRdHGtmK1b2pcVmfkwxMc2gLVa9vw2gdavqG13wTnmUwJFM2QPj1j95",
+            "pass": "2026",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
